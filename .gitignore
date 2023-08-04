@@ -1,0 +1,56 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# ASP.NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.sln.ide
+
+# NuGet
+packages/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+
+# Node.js/npm
+node_modules/
+npm-debug.log*
+yarn.lock
+
+# Bower
+bower_components/
+
+# TypeScript
+*.js.map
+*.tsbuildinfo
+
+# Others
+*.Cache
+*.bak
+*.cache
+*.DS_Store
+*.tmp
+*.vspscc
+*.vssscc
+*.vshost.*
+Thumbs.db
+UserSettings/
+
+# IIS Express
+*.config
+*.config.user
